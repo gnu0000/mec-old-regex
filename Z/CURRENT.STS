@@ -1,0 +1,29 @@
+[shared-]
+	pmark="D:\PROG\REGEX\regex.c" 408 1
+	version=3
+[debug-]
+	target="d:\prog\regex\regex.exe"
+	synonym=;D:\PROG\REGEX
+[cv]
+	wndstate=0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1
+	wndstate=1 80 9 0 1 0 1 0 0 0 0 0 0 0 -1
+	wndstate=2 34 9 33 1 0 0 0 0 0 0 0 0 0 -1
+	wndstate=3 80 30 0 10 0 1 0 0 0 407 396 0 0 -1
+	wndstate=4 67 12 3 13 0 0 0 0 0 0 0 0 0 -1
+	wndstate=5 67 9 0 22 0 0 0 0 0 0 0 0 0 -1
+	wndstate=6 67 9 3 25 0 0 0 0 0 0 0 0 0 -1
+	wndstate=7 13 48 67 1 0 0 0 0 0 0 0 0 0 -1
+	wndstate=8 67 9 0 31 0 0 0 0 0 0 0 0 0 -1
+	wndstate=9 80 9 0 40 1 1 0 1 0 1 0 0 0 -1
+	command=use auto
+	command=n10
+	screensize=50
+	command=oh+
+	command=ov+
+	command=oa+
+	command=vs1
+	command=oc+
+	command=of+
+	command=o3-
+	command=ollf   
+	tracespeed=250
